@@ -36,15 +36,15 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "@nuxt/kit": "^4.4.2"
+    "@nuxt/kit": "^4.6.2"
   },
   "devDependencies": {
     "@nuxt/devtools": "^3.2.4",
     "@nuxt/module-builder": "^1.0.2",
-    "@nuxt/schema": "^4.4.2",
+    "@nuxt/schema": "^4.6.2",
     "@nuxt/test-utils": "^4.0.2",
     "typescript": "^6.0.3",
     "changelogen": "^0.6.2",
-    "nuxt": "^4.4.2"
+    "nuxt": "^4.6.2"
   }
 }
