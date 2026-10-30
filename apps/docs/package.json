@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "docus": "latest",
-    "better-sqlite3": "^12.9.0",
+    "better-sqlite3": "^12.11.1",
     "nuxt": "^4.4.2"
   },
   "devDependencies": {
-    "eslint": "^10.2.1"
+    "eslint": "^10.13.0"
   }
 }
